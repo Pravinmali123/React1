@@ -2,7 +2,7 @@
  import React from "react";
 import Rick from "./Card";
 // import Main from './Main';
-import Student from "./Components/Students"
+// import Student from "./componet/Students";
     // import Regult from "./Table"
   {
   /* The following line can be included in your src/index.js or App.js file */
@@ -20,9 +20,8 @@ import Corporate from "./Corporate";
 
 // import App1 from "./Components/App";
 // import UserInput from "./Components/User";
-import Regult from "./Table";
-import Rickbox from "./muiok";  
-import Animal from "./Components/Animalimg"; 
+// import Regult from "./Table";
+import Rickbox from "./muiok";   
 
 function App(){
     return(
@@ -30,7 +29,7 @@ function App(){
 {/* <Main></Main> */}
 {/* <Rick></Rick> */}
 {/* <Student></Student>   */}
-<Regult></Regult>
+{/* <Regult></Regult> */}
 {/* <Boostrap></Boostrap> */}
 {/* <ShapeExample></ShapeExample> */}
 {/* <Web></Web> */}
@@ -42,8 +41,7 @@ function App(){
 {/* // <Router></Router> */}
 {/* <App1></App1> */}
 {/* <UserInput></UserInput>   */}
-{/* <Corporate></Corporate>   */}
-{/* <Animal /> */}
+<Corporate></Corporate>  
 
 
         </>
