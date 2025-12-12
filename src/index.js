@@ -4,12 +4,18 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> a2cd70d (Initialize project using Create React App)
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
+<<<<<<< HEAD
    
+=======
+>>>>>>> a2cd70d (Initialize project using Create React App)
   </React.StrictMode>
 );
 

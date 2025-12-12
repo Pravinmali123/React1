@@ -1,5 +1,9 @@
 body {
+<<<<<<< HEAD
   margin: 20;
+=======
+  margin: 0;
+>>>>>>> a2cd70d (Initialize project using Create React App)
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -11,6 +15,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+<<<<<<< HEAD
 
 a{
   text-decoration: none;
@@ -41,3 +46,5 @@ p{
   color: rgb(173, 170, 170);
   font-weight: 600;
 }
+=======
+>>>>>>> a2cd70d (Initialize project using Create React App)
