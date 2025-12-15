@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /* .main{
   display: flex;
   justify-content: center;
@@ -217,7 +217,7 @@ p {
   width: 100%;
 } */
 
-/* 🔴 Active (Clicked) link effect */
+
 /* .nav-link.active {
   color: rgb(45, 87, 7) !important;
 }
@@ -445,9 +445,7 @@ padding-top: 30px;
 
  
 }
-.portfoliolist {
 
-}
 .portfolio-wrapper {
   overflow: hidden;
   position: relative !important;
@@ -732,7 +730,7 @@ box-sizing: border-box;
 
 
 
-=======
+
 .App {
   text-align: center;
 }
@@ -771,4 +769,4 @@ box-sizing: border-box;
     transform: rotate(360deg);
   }
 }
->>>>>>> a2cd70d (Initialize project using Create React App)
+

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
  import React from "react";
 import Rick from "./Card";
@@ -31,7 +31,7 @@ function App(){
 {/* <Main></Main> */}
 {/* <Rick></Rick> */}
 {/* <Student></Student>   */}
-<Regult></Regult>
+{/* <Regult></Regult> */}
 {/* <Boostrap></Boostrap> */}
 {/* <ShapeExample></ShapeExample> */}
 {/* <Web></Web> */}
@@ -43,7 +43,7 @@ function App(){
 {/* // <Router></Router> */}
 {/* <App1></App1> */}
 {/* <UserInput></UserInput>   */}
-{/* <Corporate></Corporate>   */}
+<Corporate></Corporate>  
 {/* <Animal /> */}
 
 
@@ -51,30 +51,4 @@ function App(){
     );
 }
 export default App;
-=======
-import logo from './logo.svg';
-import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
-
-export default App;
->>>>>>> a2cd70d (Initialize project using Create React App)

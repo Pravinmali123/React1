@@ -61,11 +61,11 @@ function Contact() {
       </div>
       <div className="cicon">
         <i className="bi bi-telephone-fill"></i>
-        <span>+1 000-000-0000</span>
+        <span>+91 8469561982</span>
       </div>
       <div className="cicon">
         <i className="bi bi-geo-alt-fill"></i>
-        <span>London, United Kingdom</span>
+        <span>Gujrat, india</span>
       </div>
     </Container>
 
@@ -73,7 +73,7 @@ function Contact() {
         <Container fluid>
           <Row>
             <Col md={12}>
-             <div class="copyright">© 2022 Corporate. All Right Reserved.</div>
+             <div class="copyright">© 2025 Corporate. All Right Reserved.</div>
             </Col>
             <Col md={12} className="social-icon">
               <ul className="social-icons1">
