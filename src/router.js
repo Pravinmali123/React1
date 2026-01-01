@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter, Route, Switch} from "react-router-dom";
 import Navbar from "./Components/Navbar.jsx";
 import Home from "./Components/home.jsx";
-import About from "./Components/About.jsx";
+// import About from "./Components/About.jsx";
 import Blog from "./Components/Blog.jsx";
 
 function Router() {
@@ -14,9 +14,9 @@ function Router() {
              <Route path="/" exact>
                  <Home/>
             </Route>
-           <Route path="/about">
+           {/* <Route path="/about">
                  <About/>
-          </Route>
+          </Route> */}
            <Route path="/blog">
                  <Blog/>
           </Route>
